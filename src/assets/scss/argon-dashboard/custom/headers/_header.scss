@@ -1,0 +1,152 @@
+//
+// Header
+//
+
+.header {
+    position: relative;
+}
+
+.rrr{
+    margin: 70px 0px;
+  }
+
+  .bg-gradient-info {background: #102030 !important; }
+
+  .ml-4, .mx-4 {
+    margin-left: 0rem !important;
+}
+
+
+
+
+.punch-hours {
+  align-items: center;
+  background-color: #f9f9f9;
+  border: 5px solid #e3e3e3;
+  border-radius: 50%;
+  display: flex;
+  font-size: 18px;
+  height: 120px;
+  justify-content: center;
+  margin: 25px auto;
+  width: 120px;
+}
+.punch-btn-section {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.punch-btn {
+  border-radius: 50px;
+  font-size: 18px;
+  font-weight: 600;
+  max-width: 100%;
+  padding: 8px 40px;
+}
+
+.punch-det{
+  border: 1px solid #e3e3e3;
+  margin: 10px; 
+  background-color: #f9f9f9;
+  padding: 10px;
+}
+
+.btn-primary {
+  background-color: #f43b48;
+  border: 1px solid #f43b48;
+  color: #FFF;
+}
+
+
+
+.row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+
+.stats-info {
+  border: 1px solid #e3e3e3;
+  margin: 10px 0px;
+  padding: 7px;
+  border-radius: 5px;
+}
+
+
+
+.recent-activity .res-activity-list li {
+  margin-bottom: 15px;
+  position: relative;
+}
+
+
+
+.recent-activity .res-activity-time {
+  color: #bbb;
+  font-size: 12px;
+}
+
+.recent-activity .res-activity-list li:before {
+  content: "";
+  position: absolute;
+  border-radius: 100%;
+}
+.recent-activity .res-activity-list li:before {
+  width: 10px;
+  height: 10px;
+  left: -30px;
+  top: 0px;
+  border: 2px solid #f43b48;
+  margin-right: 15px;
+  z-index: 2;
+  background: #fff;
+}
+
+.recent-activity .res-activity-list {
+  height: 328px;
+  list-style-type: none;
+  margin-bottom: 0;
+  overflow-y: auto;
+  padding-left: 30px;
+  position: relative;
+}
+.attandeancehrd{
+  margin: 30px 0px;
+}
+.ni{
+  font: normal normal normal 19px/1 NucleoIcons;
+}
+
+.personal-info li .title {
+  color: #4f4f4f;
+  float: left;
+  font-weight: bold;
+   width: 14%;
+
+}
+
+.personal-info {
+  list-style: none;
+  margin-bottom: 5px;
+  padding: 20px;
+  text-align: left;
+  
+}
+
+.personal-info li .text {
+  color: #8e8e8e;
+  display: block;
+  overflow: hidden;
+}
+
+.avatar-box {
+  float: left;
+}
+
+
+
+
+
