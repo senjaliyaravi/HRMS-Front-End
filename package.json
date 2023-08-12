@@ -2,13 +2,13 @@
   "name": "nexalussoft-hrms-dashboard-react",
   "version": "1.2.3",
   "description": "React version of Dashboard by nexalus soft",
-  "homepage": "https://github.com/senjaliyaravi/hrms-dashboard",
+  "homepage": "https://senjaliyaravi.github.io/hrms-dashboard",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/senjaliyaravi/hrms-dashboard.git"
   },
-  "keywords": [
+  "keywords": [  
     "react",
     "reactjs",
     "nexalussoft",
@@ -21,6 +21,7 @@
   "author": "NexalusSoft Team",
   "license": "MIT",
   "scripts": {
+  
     "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
